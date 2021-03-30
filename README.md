@@ -9,4 +9,4 @@
 
 
 ### How to RUN
-* Simply download the corresponding files and run with anaconda 2.7
+* Download the your desired files and run with anaconda 2.7
