@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Deep Neural Network
-Assignment 2
 @author: Bismillah Jan
-@author-email: bismillahjan222@gmail.com
 """
 import numpy as np
 import scipy
