@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Deep Neural Networks
-@author: Bismillah Jan
+@author: bismillah
 """
 import numpy as np
 import scipy
