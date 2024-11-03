@@ -1,12 +1,10 @@
-# Deep-Neural-Network
+# Deep Neural Network from scratch
 
 ## Repository contains Four files
-1. Tenosrflow Demonstration using MNIST dataset
-2. Implemention of XOR using Keras (backpropegation) 
-3. Perceptron implementation
-4. Adaline implementation 
- Perceptron and Adaline need wisconsin dataset (already uploaded to repository)
-
+1. A Deep Neural Network implementation using `TenosrFlow`. The network is then trained on the MNIST dataset.
+2. A Neural Network implemenation using Keras and is trained for `XoR` function.
+3. Perceptron implementation from scratch using `sklearn`
+4. ADALINE (Adaptive Linear Neuron) implementation from scratch. ADALINE is an early neural network model, often considered a building block in the history of deep neural networks (DNNs).
 
 ### How to RUN
-* Download the your desired files and run with anaconda 2.7
+* Download the your desired files and run with anaconda 2.7 or above
